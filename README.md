@@ -4,8 +4,6 @@
 
 **WebProject-iBeeXpress** is a simple PHP application created with my very own Potator Framework.
 
-This was the first application I created in my _IT 253: Introduction to OOP_ class back when I was still a second year college student using Visual Basic .NET.
-
 **Home Page**
 
 [![Image](https://raw.githubusercontent.com/melvinperello/WebProject-iBeeXpress/master/rm_img/1.png)](https://github.com/melvinperello/WebProject-iBeeXpress)
